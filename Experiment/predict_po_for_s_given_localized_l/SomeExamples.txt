@@ -1,0 +1,144 @@
+Some comments: Hits rank result is good if high rank is considered, such Hits10,Hits30, Hits50, Hits 100
+
+1. adjective Australia:
+
+a) For adjective for many pattern the rank comes over 30, in some experiments
+
+For experiment: 300000-supA_5.0-supB_5.0-condAB_0.05-condBA_0.05-AllConf_0.02
+
+INFO::>> now checking qald pattern::australian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 house Tasmanian_House_of_Assembly
+2 country Victoria
+3 engine Buick_V6_engine
+4 wineRegion Margaret_River_(wine_region)
+5 name Holden
+6 author Jon_Cleary
+7 title Premier_of_Victoria
+8 country Tasmania
+9 location New_South_Wales
+10 type region
+11 manufacturer Holden
+12 house South_Australian_House_of_Assembly
+13 manufacturer Chrysler_Australia
+14 manufacturer Airborne_Windsports
+15 location Western_Australia
+16 house Victorian_Legislative_Assembly
+17 house Victorian_Legislative_Council
+18 location Queensland
+19 location Melbourne
+20 artist George_Washington_Lambert
+21 artist John_Brack
+22 wineRegion Great_Southern_(wine_region)
+23 title Australian_Grand_Prix
+24 weight Weight_for_Age
+25 artist Tom_Roberts
+26 mixedtitles 1^^<http://www.w3.org/2001/XMLSchema#integer>
+27 location Victoria_(Australia)
+28 class Group
+29 location Tasmania
+30 grandPrix Australian
+31 type Hang_glider
+32 country Australia
+33 location Australia
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Australia >>>> >>>> FOUND : >>>> >>>> RANK::32 RECIPROCAL RANK:0.03125
+
+
+
+b)In some experiment the rank is high
+For experiment: numRule_300000-supA_5.0-supB_5.0-condAB_0.05-condBA_0.05-MaxConf_0.02
+
+INFO::>> now checking qald pattern::australian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 title Australian_Grand_Prix
+2 surface Turf
+3 engine Buick_V6_engine
+4 grandPrix Australian
+5 author Jon_Cleary
+6 location New_South_Wales
+7 title Premier_of_Victoria
+8 country Australia
+9 raceType Thoroughbred
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Australia >>>> >>>> FOUND : >>>> >>>> RANK::8 RECIPROCAL RANK:0.125
+
+
+c). adjective Swidesh: comes in higher rank
+
+ Experiment: numRule_300000-supA_5.0-supB_50.0-condAB_0.05-condBA_0.05-Kulczynski_0.02
+
+INFO::>> now checking qald pattern::swedish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 nationalteam Sweden_women's_national_handball_team
+2 birthPlace Sweden
+3 nationalteam Sweden_national_handball_team
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :birthPlace Sweden >>>> >>>> FOUND : >>>> >>>> RANK::2 RECIPROCAL RANK:0.5
+
+d) adjective Greek: comes in top rank
+Experiment: numRule_300000-supA_50.0-supB_5.0-condAB_0.05-condBA_0.1-Kulczynski_0.02
+INFO::>> now checking qald pattern::greek  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 country Greece
+2 name 
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Greece >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+e)for adjective Germany: the result comes in below rank most of the time
+ numRule_300000-supA_5.0-supB_50.0-condAB_0.05-condBA_0.1-Coherence_0.02
+
+INFO::>> now checking qald pattern::german  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 type Prisoner-of-war_camp Coherence=0.32
+2 level German_football_league_system
+3 discoverySite Heidelberg-KÃ¶nigstuhl_State_Observatory
+4 title DFB-Pokal
+5 televisionSeries Verbotene_Liebe
+6 nationalteam Germany_women's_national_handball_team
+7 nationalteam Germany_national_handball_team
+8 portal Military
+9 discoverer Karl_Reinmuth
+10 portal World
+11 portal Biography
+12 discoverer Max_Wolf
+13 langs German_language
+14 shipClass Type_VII_submarine
+15 language German_language
+16 team FSV_Frankfurt
+17 branch German_Army_(1935â1945)
+18 team Eintracht_Frankfurt
+19 shipClass Submarine
+20 team Hamburger_SV
+21 team FC_Augsburg
+22 location Augsburg
+23 location Sinsheim
+24 team Bayer_04_Leverkusen
+25 team FC_Bayern_Munich
+26 manufacturer Opel
+27 location Germany Coherence=0.161073825503356
+28 subdivisionType Regions_of_the_Czech_Republic
+29 subdivisionType Districts_of_the_Czech_Republic
+30 location Mainz
+31 team Hertha_BSC
+32 location Hanover
+33 team VfL_Wolfsburg
+34 location Freiburg_im_Breisgau
+35 team SV_Darmstadt_98
+36 country Austria
+37 team 1._FSV_Mainz_05
+38 team Fortuna_DÃ¼sseldorf
+39 condition ruin
+40 location North_Rhine-Westphalia
+41 team MSV_Duisburg
+42 location Wolfsburg
+43 country Nazi_Germany
+44 team SC_Freiburg
+45 team Karlsruher_SC
+46 http The_Czech_Republic
+47 type Human_settlement
+48 size Division_(military)
+49 country Switzerland
+50 team Hannover_96
+51 team FC_St._Pauli
+52 team 1899^^<http://www.w3.org/2001/XMLSchema#integer>
+53 country Germany    Coherence=0.130434782608696
+54 team VfL_Bochum
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Germany >>>> >>>> FOUND : >>>> >>>> RANK::53 RECIPROCAL RANK:0.018867924528301886
