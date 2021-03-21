@@ -1,0 +1,467 @@
+INFO::**********************************************************************************************************************
+INFO::****************************Experiment START ************************************************************************
+INFO::thresholds:: MaxConf-[5]_5-numRule_300000-supA_5.0-supB_50.0-condAB_0.1-condBA_0.05-MaxConf_0.02
+INFO::parts-of-speech:: JJ
+INFO::JJ File that contains all patterns within this thresholds:JJ-MaxConf-[5]_5-numRule_300000-supA_5.0-supB_50.0-condAB_0.1-condBA_0.05-MaxConf_0.02.csv.json
+INFO::qald-9 file taken for evalution:src/main/resources/qald9/data/gold/JJ-predicate-object-qald9.csv
+INFO::>> now checking qald pattern::australian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 grandPrix Australian
+2 fieldgoalsd 0^^<http://www.w3.org/2001/XMLSchema#integer>
+3 country Australia
+4 surface Turf
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Australia >>>> >>>> FOUND : >>>> >>>> RANK::3 RECIPROCAL RANK:0.3333333333333333
+
+
+INFO::>> now checking qald pattern::australian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 grandPrix Australian
+2 fieldgoalsd 0^^<http://www.w3.org/2001/XMLSchema#integer>
+3 country Australia
+4 surface Turf
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Australia >>>> >>>> FOUND : >>>> >>>> RANK::3 RECIPROCAL RANK:0.3333333333333333
+
+
+INFO::>> now checking qald pattern::australian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate-object pair:: 
+1 grandPrix Australian
+2 fieldgoalsd 0^^<http://www.w3.org/2001/XMLSchema#integer>
+3 country Australia
+4 surface Turf
+5 televisionSeries Neighbours
+6 raceType Thoroughbred
+7 nationalteam Australia_international_rules_football_team
+8 ruNationalteam Australia_national_rugby_union_team
+9 raceNo 1^^<http://www.w3.org/2001/XMLSchema#integer>
+10 weight Weight_for_Age
+11 branch Australian_Army
+12 umpireleague Australian_Football_League
+13 location Australia
+14 language Australian_English
+15 family Parastacidae
+16 teamc Australia_national_rugby_league_team
+17 sport Australian_rules_football
+18 tribus Gnaphalieae
+19 sooteam Victoria_Australian_rules_football_team
+20 teama New_South_Wales_rugby_league_team
+21 manufacturer Holden
+22 series Home
+23 won 9^^<http://www.w3.org/2001/XMLSchema#integer>
+24 series Neighbours
+25 debutstadium Melbourne_Cricket_Ground
+26 club Sydney_Swans
+27 battle New_Guinea_campaign
+28 birthPlace Victoria_(Australia)
+29 hometown Sydney
+30 title Australian_Touring_Car_Championship
+31 branch Royal_Australian_Air_Force
+32 debutteam Collingwood_Football_Club
+33 genre Young_adult_fiction
+34 teama Queensland_rugby_league_team
+35 battles North_African_campaign
+36 debutteam Carlton_Football_Club
+37 club Newtown_Jets
+38 ruClubcaps 19^^<http://www.w3.org/2001/XMLSchema#integer>
+39 battles Western_Front_(World_War_I)
+40 discipline BMX_racing
+41 ruClubcaps 7^^<http://www.w3.org/2001/XMLSchema#integer>
+42 familia Poaceae
+43 birthPlace Melbourne
+44 type Corps
+45 debutstadium Docklands_Stadium
+46 birthPlace Queensland
+47 type Hang_gliding
+48 class Group
+49 ruClubcaps 2^^<http://www.w3.org/2001/XMLSchema#integer>
+50 club Fremantle_Football_Club
+51 appearances 8^^<http://www.w3.org/2001/XMLSchema#integer>
+52 battle Second_World_War
+53 title Australian_Drivers'_Championship
+54 formerTeam Sydney_Roosters
+55 type Hang_glider
+56 club Western_Bulldogs
+57 birthPlace Geelong
+58 club Adelaide_Football_Club
+59 tries 5^^<http://www.w3.org/2001/XMLSchema#integer>
+60 birthPlace Western_Australia
+61 tries 6^^<http://www.w3.org/2001/XMLSchema#integer>
+62 type Light-sport_aircraft
+63 formerTeam South_Sydney_Rabbitohs
+64 club Manly_Warringah_Sea_Eagles
+65 club Geelong_Football_Club
+66 club Fitzroy_Football_Club
+67 club Cronulla-Sutherland_Sharks
+68 club Canterbury-Bankstown_Bulldogs
+69 formerTeam Penrith_Panthers
+70 formerTeam Parramatta_Eels
+71 club Essendon_Football_Club
+72 points 3^^<http://www.w3.org/2001/XMLSchema#integer>
+INFO::>>>>  QALD KB :hometown Australia >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::canadian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 assembly%23_ 43^^<http://www.w3.org/2001/XMLSchema#integer>
+2 region Saskatchewan
+3 assembly%23_ 42^^<http://www.w3.org/2001/XMLSchema#integer>
+4 mountainRange Canadian_Rockies
+5 location Ontario
+6 fromyr 2015^^<http://www.w3.org/2001/XMLSchema#integer>
+7 fromyr 2019^^<http://www.w3.org/2001/XMLSchema#integer>
+8 location Woodbine_Racetrack
+9 location Toronto
+10 language Canadian_English
+11 militaryBranch Canadian_Army
+12 style Via
+13 subdivisionType Provinces_and_territories_of_Canada
+14 subdivisionType List_of_regions_of_Quebec
+15 repterms%23_ 2^^<http://www.w3.org/2001/XMLSchema#integer>
+16 honorificSuffix Member_of_parliament
+17 country Canada
+18 hometown British_Columbia
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Canada >>>> >>>> FOUND : >>>> >>>> RANK::17 RECIPROCAL RANK:0.058823529411764705
+
+
+INFO::>> now checking qald pattern::danish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 country Denmark
+2 location Greenland
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Denmark >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::danish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 country Denmark
+2 location Greenland
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Denmark >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking QUERY::first >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::first >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::german  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 portal Biography
+2 nationality German
+3 birthPlace Germany
+4 televisionSeries Verbotene_Liebe
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :birthPlace Germany >>>> >>>> FOUND : >>>> >>>> RANK::3 RECIPROCAL RANK:0.3333333333333333
+
+
+INFO::>> now checking qald pattern::german  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 portal Biography
+2 nationality German
+3 birthPlace Germany
+4 televisionSeries Verbotene_Liebe
+5 portal Tanks
+6 language German_language
+7 portal Military
+8 instrument Piano
+9 http Sister_cities
+10 http List_of_twin_towns
+11 location Leverkusen
+12 militaryUnitSize Division
+13 literaryGenre Short_story
+14 location Dortmund
+15 location Gelsenkirchen
+16 location Mainz
+17 location Munich
+18 location Bremen
+19 location Frankfurt
+20 location Wolfsburg
+21 location MÃ¶nchengladbach
+22 location Augsburg
+23 location Hamburg
+24 discoverySite Heidelberg-KÃ¶nigstuhl_State_Observatory
+25 level German_football_league_system
+26 empire Holy
+27 team SV_Werder_Bremen
+28 team Borussia_Dortmund
+29 location Hanover
+30 langs German_language
+31 races 1^^<http://www.w3.org/2001/XMLSchema#integer>
+32 races 1^^<http://www.w3.org/2001/XMLSchema#nonNegativeInteger>
+33 type Prisoner-of-war_camp
+34 team VfB_Stuttgart
+35 location Italy
+36 team FC_Schalke_04
+37 location Freiburg_im_Breisgau
+38 location Sinsheim
+39 location Stuttgart
+40 size Division_(military)
+41 team Borussia_MÃ¶nchengladbach
+42 team SC_Freiburg
+43 nationalteam Germany_women's_national_handball_team
+44 team Hannover_96
+45 team 1._FSV_Mainz_05
+46 branch German_Army_(1935â1945)
+47 sport Track_and_field
+48 nationalteam Germany_national_handball_team
+49 team Eintracht_Frankfurt
+50 political Communism
+51 team FC_Bayern_Munich
+52 shipComplement 4^^<http://www.w3.org/2001/XMLSchema#integer>
+53 location Berlin
+54 portal World
+55 country German_Empire
+56 team Hamburger_SV
+57 battle Operation_Barbarossa
+58 team Bayer_04_Leverkusen
+59 discoverer Karl_Reinmuth
+60 team Hertha_BSC
+61 battles World_War_II
+62 range Alps
+63 symbol s
+64 birthPlace West_Germany
+65 nationality 
+66 shipComplement 3^^<http://www.w3.org/2001/XMLSchema#integer>
+67 discoverer Max_Wolf
+68 subdivisionType Voivodeships_of_Poland
+69 country Nazi_Germany
+70 militaryBranch German_Army_(Wehrmacht)
+71 role Armoured_warfare
+72 location Nuremberg
+73 field Economics
+74 team VfL_Wolfsburg
+75 manufacturer Opel
+76 location Cologne
+77 team FSV_Frankfurt
+78 team FC_Augsburg
+79 country Switzerland
+80 team VfL_Bochum
+81 location Germany
+82 season 2012^^<http://www.w3.org/2001/XMLSchema#integer>
+83 country Germany
+84 team MSV_Duisburg
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Germany >>>> >>>> FOUND : >>>> >>>> RANK::83 RECIPROCAL RANK:0.012048192771084338
+
+
+INFO::>> now checking qald pattern::greek  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 populationAsOf 2011^^<http://www.w3.org/2001/XMLSchema#integer>
+2 country Greece
+3 genre Tragedy
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Greece >>>> >>>> FOUND : >>>> >>>> RANK::2 RECIPROCAL RANK:0.5
+
+
+INFO::>> now checking qald pattern::indian  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate-object pair:: 
+1 type Indian_Railways
+2 militaryBranch British_Indian_Army
+3 birthPlace India
+4 missionType Satellite_navigation
+5 subdivisionType States_and_union_territories_of_India
+6 type film
+7 subdivisionType List_of_districts_in_India
+8 subdivisionType Country
+9 militaryUnitSize Brigade
+10 occupation Model_(person)
+11 nationality Indian_nationality
+12 ordo Eel
+13 affiliation Indian_National_Congress
+14 launchVehicle Polar_Satellite_Launch_Vehicle
+15 occupation Fashion_designer
+16 http List_of_cities
+17 language Malayalam_Language
+18 nationality Indian_nationality_law
+19 title Femina_Miss_India
+20 language Malayalam
+21 branch Army
+22 operator Indian_Space_Research_Organisation
+23 subdivisionName Tamil_Nadu
+24 family Lutjanidae
+25 battle First_World_War
+26 country British_Raj
+27 language Tamil
+28 subdivisionType Administrative_divisions_of_India
+29 birthPlace Presidencies_and_provinces_of_British_India
+30 country British_Crown
+31 operator Eastern_Railway_zone
+32 language Tamil_language
+33 birthPlace British_India
+34 language Hindi
+35 language Kannada_language
+36 language Kannada
+37 type Train_station
+38 owningOrganisation Ministry_of_Railways_(India)
+39 country British_Empire
+40 battles American_Indian_Wars
+41 unit 5^^<http://www.w3.org/2001/XMLSchema#integer>
+42 nationality Indian
+43 subdivisionName Madhya_Pradesh
+44 type Kolkata_Suburban_Railway
+45 battle Indian_Wars
+46 battles Sinai_and_Palestine_campaign
+47 battle Sinai_and_Palestine_Campaign
+48 subdivisionName Uttar_Pradesh
+49 subdivisionName Maharashtra
+50 battles Western_Front_(World_War_I)
+51 occupation 
+52 language Bengali_language
+53 type Cavalry
+54 populationPlace Singapore
+55 populationPlace Malaysia
+56 subdivisionName Karnataka
+INFO::>>>>  QALD KB :location India >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking QUERY::methodist >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::non-profit_organization >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::non-profit_organization >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pro-european >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::spanish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 genre Short_story
+2 location MÃ¡laga
+3 birthPlace Spain
+4 team Athletic_Bilbao
+5 team Getafe_CF
+6 team Real_Sociedad
+7 team AtlÃ©tico_Madrid
+8 team Levante_UD
+9 team RCD_Espanyol
+10 team MÃ¡laga_CF
+11 won 0^^<http://www.w3.org/2001/XMLSchema#integer>
+12 team CA_Osasuna
+13 team Rayo_Vallecano
+14 series Grand_Prix_motorcycle_racing
+15 location Zaragoza
+16 team Sevilla_FC
+17 team Valencia_CF
+18 lost 1^^<http://www.w3.org/2001/XMLSchema#integer>
+19 location Granada
+20 location Pamplona
+21 won 2^^<http://www.w3.org/2001/XMLSchema#integer>
+22 battle Spanish_Civil_War
+23 team RCD_Mallorca
+24 team Real_Zaragoza
+25 team Villarreal_CF
+26 governmentType Republic
+27 location Palma_de_Mallorca
+28 team Granada_CF
+29 type Television_network
+30 team FC_Barcelona
+31 location Getafe
+32 location GijÃ³n
+33 governmentType Presidential_system
+34 location Costa_Rica
+35 coorPinpoint city
+36 type Communes_of_Chile
+37 languages 
+38 nationalteam Spain_women's_national_handball_team
+39 team Racing_de_Santander
+40 team Sporting_de_GijÃ³n
+41 type DenominaciÃ³n_de_Origen
+42 location CornellÃ _de_Llobregat
+43 won 3^^<http://www.w3.org/2001/XMLSchema#integer>
+44 country Peru
+45 genre Fantasy
+46 populationPlace Venezuela
+47 otherLanguage Spanish_language
+48 lost 4^^<http://www.w3.org/2001/XMLSchema#integer>
+49 otherLanguage Spanish
+50 title Barcelona
+51 ideology Republicanism_in_Spain
+52 movement Baroque
+53 stadium Madrid
+54 g 11^^<http://www.w3.org/2001/XMLSchema#integer>
+55 nationalteam Spain_national_handball_team
+56 lost 6^^<http://www.w3.org/2001/XMLSchema#integer>
+57 team Real_Madrid_CF
+58 stadium Santiago_BernabÃ©u_Stadium
+59 lost 8^^<http://www.w3.org/2001/XMLSchema#integer>
+60 type List_of_cities_in_Chile
+61 location Spain
+62 pushpinMap Chile
+63 stadium Barcelona
+64 team Spain_national_football_team
+65 type Paramotor
+66 team UD_AlmerÃ­a
+67 lost 7^^<http://www.w3.org/2001/XMLSchema#integer>
+68 team AtlÃ©tico
+69 languages English_language
+70 artist Francisco_Goya
+71 subdivisionName Chile
+72 populationPlace France
+73 populationPlace Canada
+74 language French_language
+75 houses Unicameralism
+76 title Real
+77 clubs FC_Barcelona_Handbol
+78 subdivisionType Provinces_of_Chile
+79 subdivisionType Regions_of_Chile
+80 state Galicia
+81 country Argentina
+82 populationPlace Brazil
+83 populationPlace Mexico
+84 genre Power_metal
+85 subdivisionType Provinces_of_Argentina
+86 team Argentina_national_football_team
+87 ideology Communism
+88 populationPlace Italy
+89 clubs CB_Ademar_LeÃ³n
+90 subdivisionName Peru
+91 team2score 5^^<http://www.w3.org/2001/XMLSchema#integer>
+92 field Architecture
+93 subdivisionType Provinces_of_Spain
+94 subdivisionType Municipalities_of_Spain
+95 nationalteam Spain_national_under-21_football_team
+96 langs American_English
+97 populationPlace Germany
+98 settlementType Departments_of_Argentina
+99 ideology Feminism
+100 ideology MarxismâLeninism
+101 ideology Conservatism
+102 country Spain
+103 settlementType Parish_(administrative_division)
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :country Spain >>>> >>>> FOUND : >>>> >>>> RANK::102 RECIPROCAL RANK:0.00980392156862745
+
+
+INFO::>> now checking qald pattern::swedish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate-object pair:: 
+1 birthPlace Sweden
+2 nationalteam Sweden_women's_national_handball_team
+3 nationalteam Sweden_national_handball_team
+INFO::>>>>  QALD KB :country Sweden >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::swedish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate-object pair:: 
+1 birthPlace Sweden
+2 nationalteam Sweden_women's_national_handball_team
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :birthPlace Sweden >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::swiss  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate-object pair:: 
+1 locatedInArea Switzerland
+2 range Alps
+3 products Private_banking
+4 language German_language
+5 locatedInArea Canton_of_Bern
+6 products Investment_management
+7 europeanChampionshipAppearances 1^^<http://www.w3.org/2001/XMLSchema#integer>
+8 mountainRange Pennine_Alps
+9 type Paragliding
+10 location Canton_of_Ticino
+11 location Canton_of_Valais
+12 locatedInArea Valais
+13 locatedInArea Ticino
+14 mountainRange Lepontine_Alps
+15 type Paraglider
+16 locatedInArea Lombardy
+17 address Canton_of_ZÃ¼rich
+18 locatedInArea GraubÃ¼nden
+19 mountainRange Bernese_Alps
+20 location Canton_of_Grisons
+21 name 
+INFO::>>>>  QALD KB :location Switzerland >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::Hits10::(7/20.0):0.35
+INFO::Hits1::(3/20.0):0.15
+INFO::Hits5::(7/20.0):0.35
+INFO::#### #### #### #### Mean Reciprocal Value::(4.580675643751476/20.0)=0.22903379
+INFO::#### #### #### #### calculating Hits::
+INFO::MEAN RECIPROCAL::0.229033790000
+
