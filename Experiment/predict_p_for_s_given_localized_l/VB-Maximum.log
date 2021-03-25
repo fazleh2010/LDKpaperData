@@ -1,0 +1,763 @@
+INFO::****************************Experiment START ************************************************************************
+INFO::thresholds:: MaxConf-[5]_5-numRule_300000-supA_50.0-supB_50.0-condAB_0.1-condBA_0.1-MaxConf_0.02
+INFO::parts-of-speech:: VB
+INFO::VB File that contains all patterns within this thresholds:VB-MaxConf-[5]_5-numRule_300000-supA_50.0-supB_50.0-condAB_0.1-condBA_0.1-MaxConf_0.02.csv.json
+INFO::qald-9 file taken for evalution:src/main/resources/qald9/data/gold/VB-predicate-qald9.csv
+INFO::>> now checking QUERY::admit >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::air  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 released
+INFO::>>>>  QALD KB :completionDate >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking QUERY::assassinate >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::attend  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 college
+INFO::>>>>  QALD KB :almaMater >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::attend  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 college
+INFO::>>>>  QALD KB :almaMater >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthYear >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthDate >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthDate >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthDate >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::bear  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 doublesrecord
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking QUERY::belong >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::belong >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::border >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::build  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 manufacturer
+INFO::>>>>  QALD KB :beginningDate >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking QUERY::bury >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::bury >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::bury >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::cast >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::come >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::come >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::commence >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::complete >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::compose >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::compose >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::cost >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::cost >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :creator >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :creator >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :creator >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>>  QALD KB :author >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :creator >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :creator >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::create  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 creator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :creator >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking QUERY::cross >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::cross >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::design  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 designer
+INFO::>>>>  QALD KB :architect >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :developer >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>>  QALD KB :designer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :developer >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :developer >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :developer >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>>  QALD KB :product >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::develope  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 developer
+INFO::>>>>  QALD KB :designer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::die  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 deathPlace
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :deathPlace >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::die  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 deathPlace
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :deathPlace >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::die  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 deathPlace
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :deathPlace >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::die  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 deathPlace
+INFO::>>>>  QALD KB :birthPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::die  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 deathPlace
+INFO::>>>>  QALD KB :deathCause >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 director
+INFO::>>>>  QALD KB :starring >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::direct  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 director
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :director >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::discover  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 discoverer
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :discoverer >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::discover  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 discoverer
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :discoverer >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking QUERY::dissolve >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::erupt >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::establish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 sport
+INFO::>>>>  QALD KB :established >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking QUERY::flow into >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::found  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 founder
+INFO::>>>>  QALD KB :founded >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::found  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 founder
+INFO::>>>>  QALD KB :foundedBy >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::found  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 founder
+INFO::>>>>  QALD KB :formationYear >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::found  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 founder
+INFO::>>>>  QALD KB :foundationPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::found  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 founder
+INFO::>>>>  QALD KB :foundingYear >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::found  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 founder
+INFO::>>>>  QALD KB :foundationPlace >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::graduate  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 almaMater
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :almaMater >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::grow  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 origin
+INFO::>>>>  QALD KB :growingGrape >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking QUERY::influence >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::influence >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::influence >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::inspire >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::involve >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::join >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::kill >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::know  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 satelliteOf
+INFO::>>>>  QALD KB :knownFor >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::launch  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 launchDate
+INFO::>>>>  QALD KB :launchSite >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::live  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 fossilRange
+INFO::>>>>  QALD KB :residence >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::live  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 fossilRange
+INFO::>>>>  QALD KB :populationTotal >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::marry  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 spouse
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :spouse >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::marry  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 spouse
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :spouse >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::marry  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 spouse
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :spouse >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::marry  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 spouse
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :spouse >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking QUERY::need >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::operate  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 family
+2 operator
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :operator >>>> >>>> FOUND : >>>> >>>> RANK::2 RECIPROCAL RANK:0.5
+
+
+INFO::>> now checking QUERY::originate >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::pay >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :producer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :producer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :producer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :product >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :wineProduced >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :producer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :director >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::produce  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 company
+INFO::>>>>  QALD KB :producer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::publish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 publisher
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :publisher >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::publish  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 publisher
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :publisher >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::release  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 released
+INFO::>>>>  QALD KB :releaseDate >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::run  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 horseRace
+2 location
+INFO::>>>>  QALD KB :country >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::serve  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 termStart
+2 cityServed
+3 locale
+INFO::>>>>  QALD KB :targetAirport >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::serve  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 termStart
+2 cityServed
+3 locale
+INFO::>>>>  QALD KB :targetAirport >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::serve  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 termStart
+2 cityServed
+3 locale
+INFO::>>>>  QALD KB :targetAirport >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::speak  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 languageFamily
+INFO::>>>>  QALD KB :language >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::speak  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 languageFamily
+INFO::>>>>  QALD KB :spokenIn >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::speak  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 languageFamily
+INFO::>>>>  QALD KB :language >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::speak  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 languageFamily
+INFO::>>>>  QALD KB :language >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::stand  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 testsumpired
+INFO::>>>>  QALD KB :abbreviation >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::stand  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 testsumpired
+INFO::>>>>  QALD KB :abbreviation >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::star  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 starring
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :starring >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking QUERY::start >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::start >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::start >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::study >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking QUERY::study >> Pattern NOT FOUND in our LEXICON
+INFO::>> now checking qald pattern::succeed  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 language
+INFO::>>>>  QALD KB :successor >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::win  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 race
+INFO::>>>>  QALD KB :award >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::win  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 race
+INFO::>>>>  QALD KB :award >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::win  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 race
+INFO::>>>>  QALD KB :award >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::win  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 race
+INFO::>>>>  QALD KB :award >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>>  QALD KB :writer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>>  QALD KB :composer >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>>  QALD KB :editor >>>> NOT FOUND  RANK::0 RECIPROCAL RANK::0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::>> now checking qald pattern::write  >>>> Pattern FOUND in our LEXICON
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> Proposed results:predicate:: 
+1 author
+2 name
+INFO::>>>> >>>>  >>>> >>>> >>>>  >>>> >>>> >>>> >>>> QALD KB :author >>>> >>>> FOUND : >>>> >>>> RANK::1 RECIPROCAL RANK:1.0
+
+
+INFO::Hits10::(50/160.0):0.3125
+INFO::Hits1::(49/160.0):0.30625
+INFO::Hits5::(50/160.0):0.3125
+INFO::#### #### #### #### Mean Reciprocal Value::(49.5/160.0)=0.309375
+INFO::#### #### #### #### calculating Hits::
+INFO::MEAN RECIPROCAL::0.309375000000
+INFO::***** ***** ***** ****** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** ***** *****
+INFO::**********************************************************************************************************************
