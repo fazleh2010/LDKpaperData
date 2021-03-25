@@ -77,5 +77,5 @@ wife,227,spouse,"ASK WHERE { res:Barack_Obama dbo:spouse ?spouse . ?spouse rdfs:
 ,254,spouse,SELECT DISTINCT ?uri WHERE { res:Abraham_Lincoln dbo:spouse ?uri },Who was the wife of U.S. president Lincoln?,,
 ,376,spouse,ASK WHERE { res:Barack_Obama dbo:spouse res:Michelle_Obama },Is Michelle Obama the wife of Barack Obama?,,
 ,405,spouse,ASK WHERE { res:Tom_Hanks dbo:spouse res:Rita_Wilson },Is Rita Wilson the wife of Tom Hanks?,,
-work,236,,SELECT ?book WHERE { { ?book dbo:author dbr:Dan_Brown . ?book dbp:releaseDate ?date } UNION { ?book dbo:author dbr:Dan_Brown . ?book dbo:publicationDate ?date} } ORDER BY DESC(xsd:date(?date)) LIMIT 1,What is the last work of Dan Brown?,,
-writer,299,,SELECT ?writers WHERE { dbr:The_Wall dbp:writer ?writers },Who are the writers of the Wall album of Pink Floyd?,,
+work,236,author,SELECT ?book WHERE { { ?book dbo:author dbr:Dan_Brown . ?book dbp:releaseDate ?date } UNION { ?book dbo:author dbr:Dan_Brown . ?book dbo:publicationDate ?date} } ORDER BY DESC(xsd:date(?date)) LIMIT 1,What is the last work of Dan Brown?,,
+writer,299,writer,SELECT ?writers WHERE { dbr:The_Wall dbp:writer ?writers },Who are the writers of the Wall album of Pink Floyd?,,
