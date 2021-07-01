@@ -1,0 +1,663 @@
+{
+  "grammarEntries" : [ {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "($x | THING_NP) এর পিতা এর নাম কি?", "($x | THING_NP) এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : [ {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q90227"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q135687"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q153481"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q153730"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q156023"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q172203"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q199418"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q237324"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q237486"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q243113"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q257141"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q266309"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q329743"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q332958"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q380824"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q435375"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q435793"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q437049"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q451359"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q452098"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q456900"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q457111"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q468677"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q522106"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q555426"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q648617"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q663856"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q689638"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q739327"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q741513"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q766818"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q946961"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q980958"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1049347"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1236827"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1242632"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1332164"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1390993"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1392390"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1875299"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1939373"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2082427"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2520822"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2994823"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3083678"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3086063"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3109427"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3123699"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3271923"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3310371"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3430265"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3680403"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3844728"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q4129555"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q4129571"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q4877250"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5043474"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5297869"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5338658"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5380310"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5711719"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5864024"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5997406"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q7932232"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q10862805"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q14623683"
+      }, {
+        "label" : "ড্যামিয়ান মার্লে",
+        "uri" : "http://www.wikidata.org/entity/Q310796"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q14751950"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q14752200"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292820"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292821"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292873"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292882"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16338096"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16338100"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783695"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783697"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783700"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783701"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q17978424"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q21009290"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q21914340"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q21914341"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q23034454"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q27907757"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q64825985"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q74829058"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q75501666"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q75501670"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q76103242"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q76103243"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q105748660"
+      }, {
+        "label" : "সাশা ওবামা",
+        "uri" : "http://www.wikidata.org/entity/Q15070048"
+      }, {
+        "label" : "পিকাস",
+        "uri" : "http://www.wikidata.org/entity/Q235724"
+      }, {
+        "label" : "জুলিয়ান মার্লে",
+        "uri" : "http://www.wikidata.org/entity/Q718404"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2186"
+      }, {
+        "label" : "মালিয়া ওবামা",
+        "uri" : "http://www.wikidata.org/entity/Q15070044"
+      }, {
+        "label" : "দ্বিতীয় নেপোলিয়ন",
+        "uri" : "http://www.wikidata.org/entity/Q7723"
+      }, {
+        "label" : "এদুয়ার্দো ফ্রেই রুইস-তাগ্লে",
+        "uri" : "http://www.wikidata.org/entity/Q326"
+      }, {
+        "label" : "কিউপিড",
+        "uri" : "http://www.wikidata.org/entity/Q5011"
+      } ]
+    },
+    "combination" : false
+  }, {
+    "id" : "2",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "NP",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "$x এর পিতা" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : [ {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q90227"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q135687"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q153481"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q153730"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q156023"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q172203"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q199418"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q237324"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q237486"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q243113"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q257141"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q266309"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q329743"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q332958"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q380824"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q435375"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q435793"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q437049"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q451359"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q452098"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q456900"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q457111"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q468677"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q522106"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q555426"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q648617"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q663856"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q689638"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q739327"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q741513"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q766818"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q946961"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q980958"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1049347"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1236827"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1242632"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1332164"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1390993"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1392390"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1875299"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q1939373"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2082427"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2520822"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2994823"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3083678"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3086063"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3109427"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3123699"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3271923"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3310371"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3430265"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3680403"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q3844728"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q4129555"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q4129571"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q4877250"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5043474"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5297869"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5338658"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5380310"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5711719"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5864024"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q5997406"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q7932232"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q10862805"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q14623683"
+      }, {
+        "label" : "ড্যামিয়ান মার্লে",
+        "uri" : "http://www.wikidata.org/entity/Q310796"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q14751950"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q14752200"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292820"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292821"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292873"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q15292882"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16338096"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16338100"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783695"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783697"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783700"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q16783701"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q17978424"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q21009290"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q21914340"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q21914341"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q23034454"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q27907757"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q64825985"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q74829058"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q75501666"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q75501670"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q76103242"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q76103243"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q105748660"
+      }, {
+        "label" : "সাশা ওবামা",
+        "uri" : "http://www.wikidata.org/entity/Q15070048"
+      }, {
+        "label" : "পিকাস",
+        "uri" : "http://www.wikidata.org/entity/Q235724"
+      }, {
+        "label" : "জুলিয়ান মার্লে",
+        "uri" : "http://www.wikidata.org/entity/Q718404"
+      }, {
+        "label" : "",
+        "uri" : "http://www.wikidata.org/entity/Q2186"
+      }, {
+        "label" : "মালিয়া ওবামা",
+        "uri" : "http://www.wikidata.org/entity/Q15070044"
+      }, {
+        "label" : "দ্বিতীয় নেপোলিয়ন",
+        "uri" : "http://www.wikidata.org/entity/Q7723"
+      }, {
+        "label" : "এদুয়ার্দো ফ্রেই রুইস-তাগ্লে",
+        "uri" : "http://www.wikidata.org/entity/Q326"
+      }, {
+        "label" : "কিউপিড",
+        "uri" : "http://www.wikidata.org/entity/Q5011"
+      } ]
+    },
+    "combination" : false
+  }, {
+    "id" : "3",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "LOCATION",
+    "returnType" : "LOCATION",
+    "frameType" : "FULL_DATASET",
+    "sentences" : [ "Where is $x located?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(join\n  (union\n    (bgp (triple ?subjOfProp <http://dbpedia.org/ontology/country> ?objOfProp))\n    (bgp (triple ?subjOfProp <http://dbpedia.org/ontology/location> ?objOfProp)))\n  (bgp\n    (triple ?objOfProp <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place>)\n    (triple ?subjOfProp <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dbpedia.org/ontology/Place>)\n  ))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : [ ]
+    },
+    "combination" : false
+  } ]
+}

@@ -1,0 +1,4003 @@
+{
+  "grammarEntries" : [ {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q90227> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q135687> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q153481> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q153730> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q156023> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q172203> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q199418> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q237324> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q237486> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q243113> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q257141> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q266309> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q329743> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q332958> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q380824> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q435375> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q435793> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q437049> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q451359> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q452098> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q456900> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q457111> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q468677> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q522106> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q555426> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q648617> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q663856> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q689638> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q739327> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q741513> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q766818> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q946961> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q980958> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1049347> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1236827> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1242632> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1332164> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1390993> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1392390> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1875299> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q1939373> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q2082427> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q2520822> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q2994823> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3083678> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3086063> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3109427> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3123699> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3271923> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3310371> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3430265> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3680403> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q3844728> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q4129555> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q4129571> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q4877250> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5043474> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5297869> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5338658> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5380310> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5711719> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5864024> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5997406> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q7932232> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q10862805> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q14623683> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "ড্যামিয়ান মার্লে এর পিতা এর নাম কি?", "ড্যামিয়ান মার্লে এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q310796> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q14751950> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q14752200> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q15292820> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q15292821> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q15292873> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q15292882> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q16338096> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q16338100> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q16783695> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q16783697> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q16783700> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q16783701> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q17978424> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q21009290> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q21914340> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q21914341> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q23034454> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q27907757> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q64825985> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q74829058> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q75501666> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q75501670> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q76103242> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q76103243> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q105748660> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "সাশা ওবামা এর পিতা এর নাম কি?", "সাশা ওবামা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q15070048> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "পিকাস এর পিতা এর নাম কি?", "পিকাস এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q235724> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "জুলিয়ান মার্লে এর পিতা এর নাম কি?", "জুলিয়ান মার্লে এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q718404> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর নাম কি?", " এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q2186> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "মালিয়া ওবামা এর পিতা এর নাম কি?", "মালিয়া ওবামা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q15070044> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "দ্বিতীয় নেপোলিয়ন এর পিতা এর নাম কি?", "দ্বিতীয় নেপোলিয়ন এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q7723> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "এদুয়ার্দো ফ্রেই রুইস-তাগ্লে এর পিতা এর নাম কি?", "এদুয়ার্দো ফ্রেই রুইস-তাগ্লে এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q326> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "1",
+    "lexicalEntryUri" : "http://localhost:8080#birthPlace_of",
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "কিউপিড এর পিতা এর নাম কি?", "কিউপিড এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp (triple <http://www.wikidata.org/entity/Q5011> <http://www.wikidata.org/prop/direct/P22> ?objOfProp))\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfProp"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : false
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q75448887> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q76236468> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q76335512> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q76335518> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q76335519> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q76335517> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q100146686> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q100147817> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7521> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "কুবলাই খান এর পিতা এর পিতা এর নাম কি?", "কুবলাই খান এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7523> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "গুয়ুক খান এর পিতা এর পিতা এর নাম কি?", "গুয়ুক খান এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7520> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q82012> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q82075> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q130969> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q150111> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q235480> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q254654> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q270438> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q274599> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q352940> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q380393> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q432375> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q455035> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q464449> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q532958> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q536615> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q715088> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q822372> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q824855> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q935963> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q1042300> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q1378067> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q1419360> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q1984422> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q2305341> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q2459965> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q2556555> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q2628240> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q2738819> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q3034272> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q3089703> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q3175351> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q3263449> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q3736379> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q3949309> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q4055896> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q4099484> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q4160519> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q4233439> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q4669032> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q5896045> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q6128514> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q6187697> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q6944215> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7050058> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069352> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069358> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069368> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069369> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069420> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069433> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069436> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069442> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q7069447> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q12305398> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292901> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292907> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292916> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292920> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292927> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292963> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292965> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292970> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292974> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292979> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15292987> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15339037> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q15967707> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q16023254> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q16059004> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q17064866> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q17164546> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q17278151> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q18615771> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q18652150> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q18654413> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q18762412> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ "আরিক বোকে এর পিতা এর পিতা এর নাম কি?", "আরিক বোকে এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q470293> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q21188702> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q24860634> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q24867509> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q24871582> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q24875229> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q45571316> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q45669251> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q54860828> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q56230675> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q71832731> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q75290783> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  }, {
+    "id" : "4",
+    "lexicalEntryUri" : null,
+    "language" : "BN",
+    "type" : "SENTENCE",
+    "bindingType" : "THING",
+    "returnType" : "THING",
+    "frameType" : "NPP",
+    "sentences" : [ " এর পিতা এর পিতা এর নাম কি?", " এর পিতা এর পিতা এর নাম বলো?" ],
+    "queryType" : "SELECT",
+    "sparqlQuery" : "(bgp\n  (triple ?subjOfProp <http://www.wikidata.org/prop/direct/P22> ?objOfProp)\n  (triple <http://www.wikidata.org/entity/Q75290780> <http://www.wikidata.org/prop/direct/P22> ?subjOfProp)\n)\n",
+    "sentenceToSparqlParameterMapping" : {
+      "$x" : "subjOfPropx"
+    },
+    "returnVariable" : "objOfProp",
+    "sentenceBindings" : {
+      "bindingVariableName" : "$x",
+      "bindingList" : null
+    },
+    "combination" : true
+  } ]
+}
